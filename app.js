@@ -34,17 +34,17 @@ for (var i = 0; i < row; i++) {
 
 
 
-// var n = 5   // +prompt("Enter any number:")
-// for (var i = 0; i < n; i++) {
-//     var b = 1
-//     var a = ""
-//     for (var j = 0; j < n; j++) {
-//         a += b
-//         b++
-//     }
+var n = 5   // +prompt("Enter any number:")
+for (var i = 0; i < n; i++) {
+    var b = 1
+    var a = ""
+    for (var j = 0; j < n; j++) {
+        a += b
+        b++
+    }
 
-//     console.log(a)
-// }
+    console.log(a)
+}
 
 
 // for (var i = 1; i < 11; i++) {
