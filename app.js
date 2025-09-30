@@ -23,14 +23,14 @@ for (var i = 0; i < row; i++) {
 }
 
 
-// var a = ""
-// for (var i = 0; i < row; i++) {
+var a = ""
+for (var i = 0; i < row; i++) {
 
-//     for (var j = 0; j < 1; j++) {
-//         a += "*"
-//     }
-//     console.log(a)
-// }
+    for (var j = 0; j < 1; j++) {
+        a += "*"
+    }
+    console.log(a)
+}
 
 
 
