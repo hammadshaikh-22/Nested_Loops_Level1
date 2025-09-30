@@ -68,14 +68,14 @@ for (var i = 0; i < 4; i++) {
 }
 
 
-// var a="****"
+var a="****"
 
-// for (var i = 4; i > 0; i--) {
-//     var b = ""
-//     for (var j = 0; j < 1; j++) {
-//         b += a.slice(0,i)
-//         console.log(b)
+for (var i = 4; i > 0; i--) {
+    var b = ""
+    for (var j = 0; j < 1; j++) {
+        b += a.slice(0,i)
+        console.log(b)
         
-//     }
+    }
     
-// }
+}
