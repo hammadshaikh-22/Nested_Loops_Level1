@@ -10,17 +10,17 @@ for (var i = 0; i < row; i++) {
 }
 
 
-// var row = 4
-// for (var i = 0; i < row; i++) {
-//     var b = 1
-//     var a = ""
-//     for (var j = 0; j < col; j++) {
-//         a += b
-//         b++
-//     }
+var row = 4
+for (var i = 0; i < row; i++) {
+    var b = 1
+    var a = ""
+    for (var j = 0; j < col; j++) {
+        a += b
+        b++
+    }
 
-//     console.log(a)
-// }
+    console.log(a)
+}
 
 
 // var a = ""
