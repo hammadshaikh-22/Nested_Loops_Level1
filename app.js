@@ -47,25 +47,25 @@ for (var i = 0; i < n; i++) {
 }
 
 
-// for (var i = 1; i < 11; i++) {
-//     for (var j = 0; j < 1; j++) {
-//         console.log(i, "X", i, " = ", i * i)
-//     }
-// }
+for (var i = 1; i < 11; i++) {
+    for (var j = 0; j < 1; j++) {
+        console.log(i, "X", i, " = ", i * i)
+    }
+}
 
 
-// var a = ""
-// var b = 1
-// for (var i = 0; i < 4; i++) {
+var a = ""
+var b = 1
+for (var i = 0; i < 4; i++) {
     
     
-//     for (var j = 0; j < 1; j++) {
-//         a += b
-//         b++
-//     }
+    for (var j = 0; j < 1; j++) {
+        a += b
+        b++
+    }
     
-//     console.log(a)
-// }
+    console.log(a)
+}
 
 
 // var a="****"
